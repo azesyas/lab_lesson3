@@ -1,0 +1,2 @@
+include ':app', ':intentapp', ':share', ':resultactivity', ':systemintentsapp', ':simplefragmentapp', ':simplefragment'
+rootProject.name='mobile_lab_lesson3'
